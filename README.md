@@ -10,6 +10,7 @@ The links to download the libraries :
 for pygame please follow the link :
 https://www.pygame.org/download.shtml
 download the latest version
+credit: kids can code and pygame library
 
 other libraries are a part of python 3
 
