@@ -17,6 +17,8 @@ other libraries are a part of python 3
 The game basically consists of two level. 
 
 #_______________________________________________________________________________
+
+
 CONTROLS:
 use the arrow keys for moving the character across the screen 
 left for moving the character left
