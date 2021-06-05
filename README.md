@@ -14,7 +14,8 @@ credit: kids can code and pygame library
 
 other libraries are a part of python 3
 
-The game basically consists of two level. /n
+The game basically consists of two level. 
+
 #_______________________________________________________________________________
 CONTROLS:
 use the arrow keys for moving the character across the screen 
