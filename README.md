@@ -1,4 +1,4 @@
-# Project-15-112
+# Contra the game
 This game is called CONTRA.
 The following libraries are needed :
 PYGAME
